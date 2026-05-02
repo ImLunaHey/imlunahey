@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3000 1000" width="3000" height="1000">
+  <rect width="3000" height="1000" fill="#0a0a0a"/>
+
+  <!-- centered wordmark -->
+  <text x="1500" y="460" text-anchor="middle"
+        font-family="ui-monospace, 'JetBrains Mono', 'IBM Plex Mono', 'SF Mono', Menlo, Consolas, monospace"
+        font-size="180" font-weight="500" letter-spacing="-1" fill="#fafafa"
+       >@imlunahey.com<tspan dx="28" fill="#fafafa">▊</tspan></text>
+
+  <!-- tagline -->
+  <text x="1500" y="580" text-anchor="middle"
+        font-family="ui-monospace, 'JetBrains Mono', 'IBM Plex Mono', 'SF Mono', Menlo, Consolas, monospace"
+        font-size="50" letter-spacing="4" fill="#5a5a5a">// federated, finally</text>
+
+  <!-- bottom-right meta -->
+  <text x="2880" y="750" text-anchor="end"
+        font-family="ui-monospace, 'JetBrains Mono', 'IBM Plex Mono', 'SF Mono', Menlo, Consolas, monospace"
+        font-size="44" letter-spacing="1" fill="#5a5a5a">[ est. 1996 ]</text>
+</svg>

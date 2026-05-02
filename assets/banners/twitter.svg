@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500" width="1500" height="500">
+  <rect width="1500" height="500" fill="#0a0a0a"/>
+
+  <!-- centered wordmark -->
+  <text x="750" y="280" text-anchor="middle"
+        font-family="ui-monospace, 'JetBrains Mono', 'IBM Plex Mono', 'SF Mono', Menlo, Consolas, monospace"
+        font-size="96" font-weight="500" letter-spacing="-0.5" fill="#fafafa"
+       >@imlunahey<tspan dx="14" fill="#fafafa">▊</tspan></text>
+
+  <!-- tagline -->
+  <text x="750" y="335" text-anchor="middle"
+        font-family="ui-monospace, 'JetBrains Mono', 'IBM Plex Mono', 'SF Mono', Menlo, Consolas, monospace"
+        font-size="26" letter-spacing="2" fill="#5a5a5a">// terminally online</text>
+</svg>
